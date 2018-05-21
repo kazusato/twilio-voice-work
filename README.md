@@ -1,7 +1,6 @@
 # Twilio Voice Work
-## ENvironment variables
+## Environment variables
 
-#!/usr/bin/env bash
 Set the following variables:
 - ACCOUNT_SID
 - ACCESS_TOKEN
